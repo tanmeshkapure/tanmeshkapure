@@ -11,9 +11,9 @@
 <br/>
 
 <!-- Social badges -->
-<a href="https://www.linkedin.com/in/tanmeshkapure/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tanmesh-kapure-148b59388/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/tanmeshkapure"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="mailto:tanmeshkapure.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:tanmeshkapure@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
@@ -28,14 +28,14 @@ location: Pune, India
 currently_working_on: My DSA + Full-Stack Learning Journey
 currently_learning: Data Structures & Algorithms (C++), AI/ML, Full-Stack Web Development
 ask_me_about: React, Node.js, Python, C++, DSA
-fun_fact: I never give up on the things i like 
+fun_fact: I never Give Up On The Things I Like 
 ```
 
 - 🔭 I'm currently working on **My DSA + Full-Stack Learning Journey**
 - 🌱 I'm currently learning **Data Structures & Algorithms (C++), AI/ML & Full-Stack Web Dev**
 - 👯 I'm looking to collaborate on **open-source projects**
 - 💬 Ask me about **React, Node.js, Python, C++, DSA**
-- 📫 How to reach me: **tanmeshkapure.dev@gmail.com**
+- 📫 How to reach me: **tanmeshkapure@gmail.com**
 - ⚡ Fun fact: **I turn coffee into code**
 
 <br/>
@@ -133,9 +133,9 @@ fun_fact: I never give up on the things i like
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/tanmeshkapure/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tanmesh-kapure-148b59388/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/tanmeshkapure"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
-<a href="mailto:tanmeshkapure.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:tanmeshkapure@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </div>
 
