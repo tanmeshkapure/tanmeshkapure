@@ -28,7 +28,7 @@ location: Pune, India
 currently_working_on: My DSA + Full-Stack Learning Journey
 currently_learning: Data Structures & Algorithms (C++), AI/ML, Full-Stack Web Development
 ask_me_about: React, Node.js, Python, C++, DSA
-fun_fact: I debug better with coffee ☕
+fun_fact: I never give up on the things i like 
 ```
 
 - 🔭 I'm currently working on **My DSA + Full-Stack Learning Journey**
